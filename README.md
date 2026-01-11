@@ -1,4 +1,4 @@
-# canary-detect
+# canary-deployment-detector
 
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
@@ -19,8 +19,8 @@ Demo Project
 
 ```bash
 # Clone the repository
-git clone https://github.com/amitdubeyup/canary-detect.git
-cd canary-detect
+git clone https://github.com/amitdubeyup/canary-deployment-detector.git
+cd canary-deployment-detector
 
 # Install dependencies
 npm install
@@ -54,7 +54,7 @@ npm test
 ## 📁 Project Structure
 
 ```
-canary-detect/
+canary-deployment-detector/
 ├── public/
 ├── package.json
 ├── .env.example
